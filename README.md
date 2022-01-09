@@ -5,7 +5,7 @@
 - LED mount - print twice (4x nut & M3x6)
 - RS25-5 mount - use the place of the orginial 24V-5V stepdown (2x nut & M3x8 for extrusion mount, 2xM3x6 for RS)
 - Back panel - use original placed nuts (6x M3x6)
-- Bottom panel - 2x heatinserts for PSU, M3x6
+- Deck panel - 2x heatinserts for PSU, M3x6
 
 All mods do not need any support, print with Voron profile (40% infill, 4 perimetters, 5 bottom/top layers)
 
