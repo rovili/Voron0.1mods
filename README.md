@@ -5,7 +5,7 @@
 - LED mount - print twice (4x nut & M3x6)
 - RS25-5 mount - use the place of the orginial 24V-5V stepdown (2x nut & M3x8 for extrusion mount, 2xM3x6 for RS)
 - Back panel - use original placed nuts (6x M3x6)
-- - Back panel honey comb
+- - Back panel honey comb - swap color on layer 3 and 11
 - Deck panel - 2x heatinserts for PSU, M3x6
 - Filament Sensor housing - one micro-switch, 2xM3x6 - use PC15/GND on any SKR Mini E3
 
