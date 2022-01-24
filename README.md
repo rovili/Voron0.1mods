@@ -15,6 +15,8 @@ All mods do not need any support, print with Voron profile (40% infill, 4 perime
 ![Extrusion mods](https://github.com/rovili/Voron0.1mods/blob/main/Pictures/IMG_0598.png)
 ![Extrusion mods](https://github.com/rovili/Voron0.1mods/blob/main/Pictures/IMG_0588.png)
 ![Extrusion mods](https://github.com/rovili/Voron0.1mods/blob/main/Pictures/IMG_0597.png)
+![FilamentSensor](https://github.com/rovili/Voron0.1mods/blob/main/Pictures/IMG_0670.png)
+![FilamentSensor](https://github.com/rovili/Voron0.1mods/blob/main/Pictures/IMG_0671.png)
 
 
 
