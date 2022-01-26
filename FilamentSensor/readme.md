@@ -6,7 +6,7 @@
 ## Micro-switch preparation
 - shorten the lever until it fits in the housing
 - bend the lever at the end, bend it so far that you can pull back a filament with a tip
-- solder flex to two outer pins and crimp the JST-XH
+- solder flex to the two outer pins and crimp the JST-XH
 
 ![FilamentSensor](https://github.com/rovili/Voron0.1mods/blob/main/Pictures/IMG_0671.png)
 
