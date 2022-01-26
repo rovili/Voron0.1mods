@@ -23,4 +23,5 @@ pause_delay: 0.5
 ## Placement of the sensor
 - I would place it in the meantime right after the feet, then you can pull back the filament when it is out of the extruder.
 - Glue the tube into the housing, makes it easier to swap the filament
+
 ![FilamentSensor](https://github.com/rovili/Voron0.1mods/blob/main/Pictures/IMG_0670.png)
