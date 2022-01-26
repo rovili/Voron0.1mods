@@ -7,7 +7,7 @@
 - Back panel - use original placed nuts (6x M3x6)
 - - Back panel honey comb - swap color on layer 3 and 11
 - Deck panel - 2x heatinserts for PSU, M3x6
-- Filament Sensor housing - one micro-switch, 2xM3x6 - use PC15/GND on any SKR Mini E3
+- Filament Sensor housing - 1x micro-switch, 2xM3x6 - use PC15/GND on any SKR Mini E3
 
 All mods do not need any support, print with Voron profile (40% infill, 4 perimetters, 5 bottom/top layers)
 
